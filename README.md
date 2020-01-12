@@ -1,6 +1,14 @@
 # CIM111 Weblab - Spring 2020
 
+### CIM111-J Wolfson 3035 MoWe 5:05PM - 6:20PM
 
+### Instructor: Patricia Sarmiento Molina
+* email: psarmiento@miami.edu
+
+### Office Hours: By Appointment
+### Mon & Wed 12:30 - 1:00 Newman Alumni Center 6200 San Amaro Dr 4th Floor
+
+#### Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
 
 
 # Resources
