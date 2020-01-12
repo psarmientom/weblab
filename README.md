@@ -6,9 +6,9 @@
 * email: psarmiento@miami.edu
 
 ### Office Hours: By Appointment
-### Mon & Wed 12:30 - 1:00
-### Friday 4:00 - 4:30
-### Newman Alumni Center 6200 San Amaro Dr 4th Floor
+* Mon & Wed 12:30 - 1:00
+* Friday 4:00 - 4:30
+* Newman Alumni Center 6200 San Amaro Dr 4th Floor
 ### [Book an appointment](https://outlook.office365.com/owa/calendar/OfficeHours2@miamiedu.onmicrosoft.com/bookings/)
 
 #### Please visit the [wiki](https://github.com/UMInteractive/Weblab/wiki) for supplemental notes and assignment details
