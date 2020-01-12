@@ -1,19 +1,9 @@
 # CIM111 Weblab - Spring 2020
 
-### Instructors
-
-Section 32 - Zevensuy Rodriguez MW 10:10-11:25AM Wolfson 4027 [Class Site]()
-
-Section 34 - Lenny Martinez Dominguez MW 12:20-1:35PM Wolfson 3040 [Class Site]()
-
-Section J - Patricia Sarmiento Molina MW 5:05-6:20PM Wolfson 3035 [Class Site]()
-
-Section 56 - Jose Guzman Fierro TuTh 2:00-3:15PM Comm Intl 2055 [Class Site]()
-
-Section R - Kim Grinfeder TuTh 2:00-3:15PM Wolfson 3034 [Class Site]()
 
 
-# Resourses
+
+# Resources
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
 ###  [Syllabus](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab.pdf)
 ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
