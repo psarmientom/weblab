@@ -16,7 +16,7 @@
 
 # Resources
 ###  [Notes](https://github.com/UMInteractive/Weblab/tree/master/notes)
-###  [Syllabus](https://github.com/UMInteractive/Weblab/blob/master/CIM111-General-Weblab.pdf)
+###  [Syllabus](https://github.com/psarmientom/weblab/blob/master/CIM111-General-Weblab.pdf)
 ###  [Homework Assignments](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md)
 ### [Tutoring](https://github.com/UMInteractive/Weblab/blob/master/notes/Tutoring.md)
 
