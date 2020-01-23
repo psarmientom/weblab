@@ -26,7 +26,7 @@
 
 ### [Week 2 -Setting up your environment and Intro to HTML](https://github.com/UMInteractive/Weblab/blob/master/notes/Setting-Up-Your-Environment.md)
 
-### [Week 3 - HTML Continued](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md)
+### [Week 3 - HTML Continued](https://github.com/UMInteractive/Weblab/blob/master/notes/2-HTML.md) [Slides](https://psarmientom.github.io/slides/week2/#slide=1)
 
 ### [Week 4 - Intro to CSS](https://github.com/UMInteractive/Weblab/blob/master/notes/3-CSS.md)
 
