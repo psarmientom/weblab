@@ -36,7 +36,7 @@
 
 ### [Week 7 - Media Queries and Responsiveness](https://github.com/UMInteractive/Weblab/blob/master/notes/4-Media-Queries.md)
 
-### [Week 8 - Responsive Website Lab] - Midterm Assignment (https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
+### [Week 8 - Responsive Website Lab - Midterm Assignment] (https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
 
 ### [Week 9 - Intro to Javascript/jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
