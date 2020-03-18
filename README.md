@@ -36,17 +36,17 @@
 
 ### [Week 7 - Media Queries and Responsiveness](https://github.com/UMInteractive/Weblab/blob/master/notes/4-Media-Queries.md)
 
-### [Week 8 - Responsive Website Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
+### [Week 8 - Responsive Website Lab] - Midterm Assignment (https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#responsive-site)
 
 ### [Week 9 - Intro to Javascript/jQuery](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
-### [Week 10 - Javascript Continued](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
+### [Week 10 - Javascript/jQuery Continued](https://github.com/UMInteractive/Weblab/blob/master/notes/6-Javascript.md)
 
-### [Week 11 - jQuery Plugin](https://github.com/UMInteractive/Weblab/blob/master/notes/7-jQuery-Plugins.md)
+### [Week 11 - jQuery Plugin Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/7-jQuery-Plugins.md)
 
-### [Week 12 – jQuery Plugin lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#creative-brief-wireframe-inspirations)
+### [Week 12 – Final Project Introduction](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#creative-brief-wireframe-inspirations)
 
-### [Week 13 – Marketing Workshop & Web Platforms](https://github.com/UMInteractive/Weblab/blob/master/notes/9-S.E.O..md)
+### [Week 13 – Final Project Check-in](https://github.com/UMInteractive/Weblab/blob/master/notes/9-S.E.O..md)
 
 ### [Week 14 – Final Project Lab](https://github.com/UMInteractive/Weblab/blob/master/notes/0-Assignments.md#final-project-300-points)
 
@@ -62,8 +62,12 @@ March 7-15 - SPRING RECESS
 
 March 25 - Last Day to Drop a Course
 
+April 13 - Final Project Introduction
+
 April 24 - CLASSES END  (11:00 PM)
 
 April 25-April 28 - Reading Days
+
+May 4 - Final Project Due
 
 April 29- May 6 - FINAL EXAMS
